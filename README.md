@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on hydroponic projects
 - 📫 Github is fine I guess
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: IO´m a Fox
+- ⚡ Fun fact: I´m a Fox
 
 <!---
 Lazyvixen/Lazyvixen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
